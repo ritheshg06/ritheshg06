@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there <HTML>
+<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
+<BODY>
+  <IMG SRC="wave.gif">
+</BODY>
+</HTML>
 
 💻 DevOps Enthusiast.
 
