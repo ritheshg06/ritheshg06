@@ -8,7 +8,7 @@
 
 🤝 Looking for open source contribution opportunity.
 
-📫 How to reach me:
+📫
 
 
 
