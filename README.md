@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+👨‍💻 AI Enthusiast.
+
+🌱 Learning Python, ML, DL.
+
+🤖 Intrested in CV and NLP.
+
+🤝 Looking for open source contribution opportunity.
+
+📫 How to reach me:
+
+
 <!--
 **ritheshg06/ritheshg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
