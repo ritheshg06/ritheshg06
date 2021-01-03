@@ -1,4 +1,4 @@
-### Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### Hi there 👋
 
 👨‍💻 DevOps Enthusiast.
 
