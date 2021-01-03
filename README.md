@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-👨‍💻 DevOps Enthusiast.
+💻 DevOps Enthusiast.
 
 🌱 Learning AWS, Terraform, Ansible........
 
 🤖 Intrested in building infrastructure from scratch and automating manual task.
 
 🤝 Looking for open source contribution opportunity.
-
-📫 
 
 
 
