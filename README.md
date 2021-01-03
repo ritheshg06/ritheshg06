@@ -8,7 +8,7 @@
 
 🤝 Looking for open source contribution opportunity.
 
-<img src="ritheshg06/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="50" height="50">
+<img src="70804f7e25b11f29db904f2fa7b4cd9d.gif" width="50" height="50">
 
 <!--
 **ritheshg06/ritheshg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
