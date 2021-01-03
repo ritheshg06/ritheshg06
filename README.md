@@ -1,4 +1,4 @@
-### Hi there <HTML><BODY><IMG SRC="wave.gif" width=50" height="50></BODY></HTML>
+### Hi there 👋
 
 💻 DevOps Enthusiast.
 
