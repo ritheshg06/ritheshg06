@@ -15,9 +15,11 @@
       <a href="https://twitter.com/RitheshGGowda" target="_blank">
          <img alt="Twitter" src="twitter.png"
          width=50" height="50">
+      </a>
       <a href="https://github.com/ritheshg06" target="_blank">
          <img alt="Github" src="github.png"
          width=50" height="50">         
+      </a>
       <a href="https://www.linkedin.com/in/ritheshg06/" target="_blank">
          <img alt="LinkedIn" src="linkedin.png"
          width=50" height="50">                      
