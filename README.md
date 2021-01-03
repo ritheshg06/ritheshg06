@@ -2,9 +2,9 @@
 
 👨‍💻 DevOps Enthusiast.
 
-🌱 Learning AWS, Terraform, Ansible ........
+🌱 Learning AWS, Terraform, Ansible........
 
-🤖 Intrested in automating manual task.
+🤖 Intrested in building infrastructure from scratch and automating manual task.
 
 🤝 Looking for open source contribution opportunity.
 
