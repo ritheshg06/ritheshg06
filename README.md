@@ -12,13 +12,13 @@
 <!DOCTYPE html>
 <html>
    <body>
-      <a href="https://twitter.com/RitheshGGowda">
+      <a href="https://twitter.com/RitheshGGowda" target="_blank">
          <img alt="Twitter" src="twitter.png"
          width=50" height="50">
-      <a href="https://github.com/ritheshg06">
+      <a href="https://github.com/ritheshg06" target="_blank">
          <img alt="Github" src="github.png"
          width=50" height="50">         
-      <a href="https://www.linkedin.com/in/ritheshg06/">
+      <a href="https://www.linkedin.com/in/ritheshg06/" target="_blank">
          <img alt="LinkedIn" src="linkedin.png"
          width=50" height="50">                      
       </a>
