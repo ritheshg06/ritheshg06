@@ -12,13 +12,14 @@
 <!DOCTYPE html>
 <html>
    <body>
-      The following image works as a link:<br>
       <a href="https://twitter.com/RitheshGGowda">
          <img alt="Twitter" src="twitter.png"
          width=50" height="50">
+      
       <a href="https://github.com/ritheshg06">
          <img alt="Github" src="github.png"
          width=50" height="50">
+         
       <a href="https://www.linkedin.com/in/ritheshg06/">
          <img alt="LinkedIn" src="linkedin.png"
          width=50" height="50">                      
