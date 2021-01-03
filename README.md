@@ -8,7 +8,19 @@
 
 🤝 Looking for open source contribution opportunity.
 
-<img src="twitter.png" width="50" height="50">
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      The following image works as a link:<br>
+      <a href="https://twitter.com/RitheshGGowda">
+         <img alt="Twitter" src="twitter.png"
+         width=150" height="70">
+      </a>
+   </body>
+</html>
 
 <!--
 **ritheshg06/ritheshg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
