@@ -8,6 +8,7 @@
 
 🤝 Looking for open source contribution opportunity.
 
+<img src="fa-crown.svg" width="50" height="50">
 
 <!--
 **ritheshg06/ritheshg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
