@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-👨‍💻 AI Enthusiast.
+👨‍💻 DevOps Enthusiast.
 
-🌱 Learning Python, ML, DL.
+🌱 Learning AWS, Terraform, Ansible.
 
-🤖 Intrested in CV and NLP.
+🤖 Intrested in automating every manual task.
 
 🤝 Looking for open source contribution opportunity.
 
 📫 How to reach me:
+
+
 
 
 <!--
